@@ -25,7 +25,7 @@
                display: inline;
                position: relative;
                color: rgb(255, 255, 255);
-               top: 300px;
+               top: 240px;
               
 
                font-family:Georgia;
@@ -42,34 +42,34 @@
             .id {
                 width:400px;
                 position:relative;
-                top:300px;
+                top:245px;
 
             }
             .pub{
                 font-size: medium;
                 position: relative;
-                top:270px;
-                left:330px;
+                top:210px;
+                left:300px;
             }
             .ed{
                 color: white;
                 font-size: medium;
                 font-family: Verdana;
                 position:relative;
-                top:200px;
+                top:140px;
             
             }
             .subtitle{
                 font-family: Tahoma;
                 font-size: large;
                 position: relative;
-                left: 50px;
+                left: 10px;
                 top:10px;
             }
             .mypic{
                  position: relative;
-                 top: 250px;
-                 left: 260px;
+                 top: 200px;
+                 left: 250px;
                  width: 100px;
                  height: 100px;
                  background-size: cover;
